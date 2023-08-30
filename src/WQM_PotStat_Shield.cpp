@@ -86,8 +86,8 @@
  */
 
 //Board Vars
-boolean WQM_Present = false; //WQM Shield Present
-boolean PS_Present = false; //PotStat Shield Present
+boolean WQM_Present = false; //WQM Shield Presence 
+boolean PS_Present = false; //PotStat Shield Presence
 
 //unsigned long tScratch2 = 0;
 
